@@ -17,13 +17,7 @@ var MainRouter = Backbone.Router.extend({
 	}
   },
 
-    myFamily: function(){
-  		if (name){
-  			console.log ('Here is a page about', name)
-  		} else {
-  		console.log('Boom! You have arrived at the myFamily page!')
-  	}
-    }
+   
   
 
 
